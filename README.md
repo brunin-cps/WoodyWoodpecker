@@ -1,4 +1,4 @@
-![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)
+
 
 # WoodWoodpecker
 This project was made during a Android Online Course. WoodWoodpecker is a android game inspired by Flappy Bird that I develop using LibGDX.
@@ -15,4 +15,16 @@ This project was made during a Android Online Course. WoodWoodpecker is a androi
 ## Images
 ![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)
 ![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print2.png)
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
