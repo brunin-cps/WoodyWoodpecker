@@ -16,7 +16,7 @@ This project was made during a Android Online Course. WoodWoodpecker is a androi
 
 DuringGame          |  GameOver 
 :-------------------------:|:-------------------------:
-![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)  |  ![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)
+![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)  |  ![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print2.png)
 
 
 
