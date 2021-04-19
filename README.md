@@ -12,6 +12,14 @@ This project was made during a Android Online Course. WoodWoodpecker is a androi
 - Open with Android Studio;
 - Run the app
 
+## Bird Animation Images
+
+<p float="left">
+  <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/picapau1.png" width="100" />
+  <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/picapau2.png" width="100" /> 
+  <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/picapau4.png" width="100" />
+</p>
+
 ## Images of Execution
 DuringGame          |  GameOver 
 :-------------------------:|:-------------------------:
