@@ -16,15 +16,9 @@ This project was made during a Android Online Course. WoodWoodpecker is a androi
 ![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)
 ![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print2.png)
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Snow" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Forest" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Mountains" style="width:50%">
-  </div>
-</div>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)  |  ![](https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png)
+
+
 
