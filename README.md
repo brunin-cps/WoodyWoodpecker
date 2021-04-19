@@ -18,13 +18,13 @@ This project was made during a Android Online Course. WoodWoodpecker is a androi
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Snow" style="width:100%">
+    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Snow" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Forest" style="width:100%">
+    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Forest" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/brunin-cps/WoodWoodpecker/blob/main/WoodPecker/android/assets/print1.png" alt="Mountains" style="width:50%">
   </div>
 </div>
 
