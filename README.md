@@ -7,7 +7,7 @@ This project was made during a Android Online Course. WoodWoodpecker is a androi
 - You can use Android Studio as IDE
 - You can have the SDK dev tool intalled(Version I used: 31.0.0-rc2)
 - You can use AVD in Android Studio(Version I used: Pixel)
-- You can download LibGDX fast setup in [text](https://libgdx.com/)
+- You can download LibGDX fast setup in [here](https://libgdx.com/)
 
 ## Instructions (server)
 - Open with Android Studio;
